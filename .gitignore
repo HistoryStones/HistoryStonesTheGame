@@ -1,0 +1,26 @@
+# Ren'Py generated files and local player data.
+*.rpyc
+*.rpymc
+*.rpyb
+game/cache/
+game/saves/
+game/**/saves/
+log.txt
+traceback.txt
+errors.txt
+lint.txt
+profile*.txt
+test-results/
+
+# Local SDK and build output.
+.tools/
+*-dists/
+build/
+dist/
+
+# Editor and OS files.
+.vscode/
+.idea/
+__pycache__/
+Thumbs.db
+.DS_Store
